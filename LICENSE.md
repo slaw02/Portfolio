@@ -1,4 +1,4 @@
-MIT License
+#MIT License
 
 Copyright (c) 2018 Stephanie Law-Caverly
 
@@ -19,6 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-The content of this project itself is licensed under the <a href="http://creativecommons.org/licenses/by/3.0/us/deed.en_US" target="_blank">Creative Commons Attribution 3.0 license</a>, 
-and the underlying source code used to format and display that content is licensed under the MIT license.
